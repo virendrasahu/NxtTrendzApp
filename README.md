@@ -7,7 +7,7 @@ This project allows users to browse products, search items, filter products, vie
 
 # 🚀 Live Demo
 
-🌐 Live Link: [Add your deployed link here](https://vinxttrendzapp.ccbp.tech/)
+🌐 Live Link: [https://vinxttrendzapp.ccbp.tech/](https://vinxttrendzapp.ccbp.tech/)
 
 ---
 
